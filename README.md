@@ -830,6 +830,7 @@ This project was developed as a collaborative effort with specific contributions
   - Endpoint 9: `/api/v1/query` - Core concept query and generation
   - Endpoint 10: `/api/v1/seed` - Concept pre-seeding functionality  
   - Endpoint 11: `/health` - System health monitoring
+- **LAb 4** - Backend integration and error handling
 - **Lab 5 - Evaluation & Benchmarking:** Comprehensive performance evaluation system with quality metrics, latency analysis, and vector store comparisons
 
 #### **Nat** - Orchestration & AI Integration
@@ -837,13 +838,14 @@ This project was developed as a collaborative effort with specific contributions
 - **Lab 3 - Instructor Integration (12, 13):**
   - Part 12: Structured output generation using instructor package
   - Part 13: LLM integration for concept note synthesis and Wikipedia fallback
+  - **Lab 4** Deployed the frontend to Google Cloud Run for scalable public access
 
-#### **Kundana** - Frontend Development
+#### **Kundana** - Frontend Development,Backend Optimization,Cloud Deployment & Documentation
 - **Lab 4 - Streamlit Frontend:** Complete web interface development including:
   - User-friendly concept query interface
   - Real-time concept note display
-  - Backend integration and error handling
   - Responsive design and user experience optimization
+  - Authored the complete technical documentation and final project report.
 
 ### 🏆 Project Achievements
 
@@ -881,7 +883,7 @@ We, the undersigned team members, hereby attest to the originality and authentic
 
 **Swara** - Core System Architecture & Backend Development  
 **Nat** - Orchestration & AI Integration  
-**Kundana** - Frontend Development  
+**Kundana** - Frontend Development
 
 ### Declaration of Originality
 
@@ -898,4 +900,4 @@ We, the undersigned team members, hereby attest to the originality and authentic
 - **Lab 2:** AWS MWAA orchestration designed and implemented for cloud deployment
 - **Lab 3:** FastAPI backend service with RAG implementation and instructor integration
 - **Lab 4:** Streamlit frontend developed with custom UI/UX design
-- **Lab 5:** Comprehensive evaluation framework with custom metrics and benchmarking
+- **Lab 5:** Comprehensive evaluation framework with custom metrics and benchmarking 
